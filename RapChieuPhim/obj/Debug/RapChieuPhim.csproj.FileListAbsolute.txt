@@ -1,0 +1,177 @@
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll.config
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.pdb
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe.config
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.rsp
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe.config
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.rsp
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.AppContext.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Console.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Http.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe.config
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.rsp
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\EntityFramework.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\WebGrease.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\EntityFramework.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.pdb
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csprojAssemblyReference.cache
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CoreCompileInputs.cache
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CopyComplete
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.pdb
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.Migrations.update.resources
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.GenerateResource.cache
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\PagedList.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.dll
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\PagedList.xml
+C:\Users\Luu Pot\Desktop\Rap Chieu Phim\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.xml
+F:\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll.config
+F:\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.dll
+F:\RapChieuPhim\RapChieuPhim\bin\RapChieuPhim.pdb
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.exe.config
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\csc.rsp
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.exe.config
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\csi.rsp
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Managed.Core.targets
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.AppContext.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Collections.Immutable.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Console.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Globalization.Calendars.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Http.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Net.Sockets.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Reflection.Metadata.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.ValueTuple.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XmlDocument.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.exe.config
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\vbc.rsp
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe
+F:\RapChieuPhim\RapChieuPhim\bin\roslyn\VBCSCompiler.exe.config
+F:\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.dll
+F:\RapChieuPhim\RapChieuPhim\bin\EntityFramework.dll
+F:\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.dll
+F:\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\RapChieuPhim\RapChieuPhim\bin\Microsoft.Web.Infrastructure.dll
+F:\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.dll
+F:\RapChieuPhim\RapChieuPhim\bin\PagedList.dll
+F:\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.dll
+F:\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.dll
+F:\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.dll
+F:\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.dll
+F:\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.dll
+F:\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.dll
+F:\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.dll
+F:\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.dll
+F:\RapChieuPhim\RapChieuPhim\bin\WebGrease.dll
+F:\RapChieuPhim\RapChieuPhim\bin\EntityFramework.xml
+F:\RapChieuPhim\RapChieuPhim\bin\EntityFramework.SqlServer.xml
+F:\RapChieuPhim\RapChieuPhim\bin\PagedList.xml
+F:\RapChieuPhim\RapChieuPhim\bin\PagedList.Mvc.xml
+F:\RapChieuPhim\RapChieuPhim\bin\System.Web.Helpers.xml
+F:\RapChieuPhim\RapChieuPhim\bin\System.Web.Mvc.xml
+F:\RapChieuPhim\RapChieuPhim\bin\System.Web.Optimization.xml
+F:\RapChieuPhim\RapChieuPhim\bin\System.Web.Razor.xml
+F:\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.xml
+F:\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Deployment.xml
+F:\RapChieuPhim\RapChieuPhim\bin\System.Web.WebPages.Razor.xml
+F:\RapChieuPhim\RapChieuPhim\bin\Newtonsoft.Json.xml
+F:\RapChieuPhim\RapChieuPhim\bin\Antlr3.Runtime.pdb
+F:\RapChieuPhim\RapChieuPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.AssemblyReference.cache
+F:\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.Migrations.update.resources
+F:\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.GenerateResource.cache
+F:\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CoreCompileInputs.cache
+F:\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.dll
+F:\RapChieuPhim\RapChieuPhim\obj\Debug\RapChieuPhim.pdb
